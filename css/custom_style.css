@@ -22,3 +22,16 @@ body
 	border-image-width: 10px;
 
 }
+
+.slider-bar
+{
+	background-image: url("../img/boxes.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	height: 400px;
+}
+
+.info-area
+{
+	background-color: #rgb(231, 231, 231);
+}
